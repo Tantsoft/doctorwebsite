@@ -9,7 +9,7 @@
 }
 
 .container{
-    width:1170px;
+    width:970px;
     margin: 0 auto;
 }
 
@@ -24,3 +24,41 @@ a{
 
 
 /* all common css */
+
+/* header part start */
+#header{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+
+
+.logo{
+    float: left;
+    width: 83px;
+}
+
+.header_text {
+    
+    float: left;
+    width: 665px;
+}
+
+.header_text h3{
+    padding-top: 30px;
+    padding-left: 15px;
+    font-size: 26px;
+    color: #3ca2a2;
+}
+
+.phone_number{
+    float: left;
+    width: 222px;
+}
+
+.phone_number h3{
+    padding-top: 30px;
+    font-size: 30px;
+    color: #c30911;
+}
+/* header part end*/
