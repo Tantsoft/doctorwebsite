@@ -96,7 +96,62 @@ a{
     font-size: 16px;
     font-weight: 400;
     font-family: 'Roboto', sans-serif;
-    padding-left: 30px;
+    padding-left: 15px;
     color: #ffffff;
 }
 /* menu part end */
+/* banner part start  */
+#banner{
+    background: url(../images/bannerbg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+
+.banner_section{
+    display: flex;
+    padding-top: 80px;
+    
+}
+
+.banner_text h3{
+    font-size: 36px;
+    color: #215a6d;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+.banner_text h2{
+    font-size: 36px;
+    color: #215a6d;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+.banner_text p{
+    padding-top: 30px;
+    font-size: 16px;
+    color: #215a6d;
+    line-height: 22px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+}
+
+.banner_btn{
+    padding: 15px 20px;
+    border-radius: 25px;
+    margin-top: 40px;
+    background: #92c7a3;
+    border: none;
+   
+}
+
+.banner_btn a{
+    color: #ffffff;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    cursor: pointer;
+}
+/* banner part  end  */
