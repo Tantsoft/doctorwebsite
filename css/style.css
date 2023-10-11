@@ -155,3 +155,49 @@ a{
     cursor: pointer;
 }
 /* banner part  end  */
+
+/* card part start */
+#card{
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+
+.card_item{
+    margin-left: 50px;
+    width: 270px;
+    text-align: center;
+}
+.card_info{
+    display: flex;
+}
+
+.card_item h3{
+    font-size: 22px;
+    color: #3ca2a2;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 25px;
+}
+
+.card_item p{
+    font-size: 13px;
+    color: #215a6d;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 15px;
+    padding-bottom: 30px;
+}
+
+.card_item a{
+    font-size: 14px;
+    color: #92c7a3;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.card_icon {
+    padding-right: 5px;
+    color: #c30911;
+}
+/* card part end */
