@@ -299,3 +299,99 @@ a{
     margin-top: 20px;
 }
 /* notice end */
+
+/* event start */
+#event{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.event_item{
+    display: flex;
+}
+.news_event{
+    width: 300px;
+}
+
+.news_event h3{
+    font-size: 29px;
+    font-weight: 400;
+   
+    color: #215a6d;
+    font-family: 'Roboto', sans-serif;
+}
+
+.news_event h4{
+    padding-bottom: 10px;
+    font-size: 18px;
+    color: #3ca2a2;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+}
+.news_event p{
+    padding-bottom: 60px;
+    font-size: 13px;
+    color: #215a6d;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+.medical_service{
+    padding-left: 30px;
+    width: 300px;
+}
+
+.medical_service h3{
+    font-size: 29px;
+    font-weight: 400;
+   
+    color: #215a6d;
+    font-family: 'Roboto', sans-serif;
+}
+
+.medical_service h4{
+    font-size: 13px;
+    color: #215a6d;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+}
+
+.medical_icon i{
+    color: #bf0a11;
+    padding-right: 5px;
+    padding-bottom: 15px;
+}
+
+.photo_gal{
+    padding-left: 30px;
+    width: 300px;
+}
+.photo_gal h3{
+    font-size: 29px;
+    font-weight: 400;
+   
+    color: #215a6d;
+    font-family: 'Roboto', sans-serif;
+}
+
+.line_white_event{
+    width: 250px;
+    height: 2px;
+    background: #9c9b9bce;
+}
+
+.ph_gal{
+    display: flex;
+}
+
+.ph_gal_item_1{
+    width: 140px;
+}
+.ph_gal_item_2{
+    padding-left: 20px;
+  width: 140px;
+}
+/* event end */
