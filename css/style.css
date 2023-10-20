@@ -505,3 +505,62 @@ a{
     font-family: 'Roboto', sans-serif;
 }
 /* our doctor end */
+
+/* footer part start */
+#footer{
+    padding-top: 20px;
+    padding-bottom: 45px;
+    background: #222222;
+}
+
+.footer_head {
+    display: flex;
+}
+
+.footer_text h3{
+    padding-top: 30px;
+    padding-left: 15px;
+    font-size: 26px;
+    color: #3ca2a2;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+}
+
+.footer_item{
+    display: flex;
+}
+
+.footer_link{
+    width: 220px;
+}
+.footer_link  h4{
+    font-size: 18px;
+    color: #358080;
+    padding-top: 50px;
+    padding-bottom: 25px;
+    font-family: 'Roboto', sans-serif;
+} 
+.footer_link  h5{
+    padding-bottom: 20px;
+ font-size: 12px;
+ font-weight: 400;
+ color: #cf0511;
+}
+
+.footer_link a{
+    color: #c6ded9;
+    padding-left: 5px;
+}
+
+
+
+/* footer part end */
+
+#copyright{
+    text-align: center;
+    color: #c6ded9;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: #cf0511;
+}
+
